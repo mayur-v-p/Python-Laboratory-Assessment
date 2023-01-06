@@ -3,7 +3,7 @@ import smtplib
 
 # Set your email credentials
 EMAIL_ADDRESS = "mayurpawar9182736455@gmail.com"
-EMAIL_PASSWORD = "wvya kagd bobm beuh"
+EMAIL_PASSWORD = ""
 
 # Connect to the email server
 server = smtplib.SMTP("smtp.gmail.com", 587)
